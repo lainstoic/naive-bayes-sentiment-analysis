@@ -1,7 +1,6 @@
 Naive Bayes Sentiment Classifier
 
 Author: 김수윤
-Student ID: 2024311065
 
 Files needed for this to work:
 
